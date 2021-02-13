@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project3App3</string>
+
+    <string name="allows_kaboom">allows kaboom</string>
+
+    <string-array name="Titles">
+        <item>Paris</item>
+        <item>Bora Bora</item>
+        <item>Maui</item>
+        <item>Tokyo</item>
+        <item>Rome</item>
+    </string-array>
+
+</resources>
